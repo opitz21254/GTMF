@@ -17,7 +17,7 @@ class Program
         Console.WriteLine("Each customer is its own Thread.");
         Console.WriteLine();
 
-        Console.WriteLine("===== 1) WITHOUT a lock  (what went wrong) =====");
+        Console.WriteLine("1) WITHOUT a lock  (what went wrong)");
         RunOneRush(useLock: false);
 
         Console.WriteLine();
@@ -25,23 +25,10 @@ class Program
         Console.ReadLine();
         Console.WriteLine();
 
-        Console.WriteLine("===== 2) WITH a lock  (check + sell stay together) =====");
+        Console.WriteLine("2) WITH a lock  (check + sell stay together)");
         RunOneRush(useLock: true);
 
-        Console.WriteLine();
-        Console.WriteLine("The cool thing I learned:");
-        Console.WriteLine("  Two threads can both read \"seats left = 2\" before either one");
-        Console.WriteLine("  subtracts. Then both sell, and we oversell the hall.");
-        Console.WriteLine("  lock means only one thread at a time can check AND take seats.");
-        Console.WriteLine();
-        Console.WriteLine("3 questions I want to ask in class:");
-        Console.WriteLine("  1. If 200 people buy at once, does one lock on the whole box");
-        Console.WriteLine("     office make the line slower? How would you share the work?");
-        Console.WriteLine("  2. I used Thread.Sleep to fake \"looking at the seating chart.\"");
-        Console.WriteLine("     What would that wait be in a real ticket website?");
-        Console.WriteLine("  3. Why Join() every customer thread before printing the totals?");
-        Console.WriteLine("     What would Main print if I skipped Join()?");
-        Console.WriteLine();
+
         Console.Write("Press Enter to close...");
         Console.ReadLine();
     }

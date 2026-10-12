@@ -1,0 +1,15 @@
+C:\Users\brennan.opitz\GTMF\bin\Debug\net6.0\GtmfTickets.exe
+C:\Users\brennan.opitz\GTMF\bin\Debug\net6.0\GtmfTickets.deps.json
+C:\Users\brennan.opitz\GTMF\bin\Debug\net6.0\GtmfTickets.runtimeconfig.json
+C:\Users\brennan.opitz\GTMF\bin\Debug\net6.0\GtmfTickets.dll
+C:\Users\brennan.opitz\GTMF\bin\Debug\net6.0\GtmfTickets.pdb
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\GtmfTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\GtmfTickets.AssemblyInfoInputs.cache
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\GtmfTickets.AssemblyInfo.cs
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\GtmfTickets.csproj.CoreCompileInputs.cache
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\GtmfTickets.sourcelink.json
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\GtmfTickets.dll
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\refint\GtmfTickets.dll
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\GtmfTickets.pdb
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\GtmfTickets.genruntimeconfig.cache
+C:\Users\brennan.opitz\GTMF\obj\Debug\net6.0\ref\GtmfTickets.dll
